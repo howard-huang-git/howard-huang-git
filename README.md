@@ -9,7 +9,7 @@ I have a strong educational background in Physics and Mathematics and I am now s
 ### Social 📫
 React out to me at any of the following platforms:
 - :office: [LinkedIn](https://www.linkedin.com/in/howard-huang-z/)
-- :e-mail: [howard.huang3@gmail.com](mailto:howard.huang3@gmail.com)
+- :e-mail: [howard.huang3+git@gmail.com](mailto:howard.huang3+git@gmail.com)
 
 ### Fun Fact ⚡
 For years, I've been working on developing my own online trading card game. Hopefully, I'll be able to bring it to life soon!
